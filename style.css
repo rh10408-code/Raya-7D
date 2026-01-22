@@ -5,15 +5,15 @@ body {
 
 /* Style for all paragraphs */
 p {
-    color: lightblue;
-    font-size: 16px;
+    color: rgb(30, 119, 219);
+    font-size: 21px;
     font-family: 'Times New Roman', serif;
 }
 
 /* Style for the main heading */
 h1 {
     text-align: center; /* Puts the heading in the middle */
-    border: 2px light purple; /* Adds an orange border around the heading */
+    border: 2px solid rgb(28, 131, 228); /* Adds an orange border around the heading */
     padding: 10px; /* Adds space inside the border */
 
 
